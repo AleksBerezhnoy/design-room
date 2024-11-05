@@ -191,7 +191,7 @@ body {
     margin-left: -150px;
     height: 717px;
     width: 1450px;
-    background-image: url('/resources/forest.jpg');
+    background-image: url('resources/forest.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
@@ -220,7 +220,7 @@ body {
     display: block;
     width: 24px;
     height: 24px;
-    background-image: url('/resources/call.png');
+    background-image: url('resources/call.png');
     background-repeat: no-repeat;
     background-size: cover;
 }
