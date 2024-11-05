@@ -159,8 +159,8 @@ body {
     color: #FFFFFF;
 }
 .design {
-    margin-left: -125px;
-    width: 1400px;
+    margin-left: -150px;
+    width: 1450px;
     height: 1852px;
     background-color: #121212;
 }
@@ -189,9 +189,9 @@ body {
 }
 .forest {
     position: relative;
-    margin-left: -125px;
+    margin-left: -150px;
     height: 717px;
-    width: 1400px;
+    width: 1450px;
     background-image: url(../resources/forest.jpg);
     background-repeat: no-repeat;
     background-size: cover;
@@ -199,7 +199,7 @@ body {
 }
 .forest-text {
     position: absolute;
-    left: 125px;
+    left: 150px;
     bottom: 60px;
     width: 443px;
     font-size: 30px;
@@ -254,8 +254,8 @@ body {
     color: #C4C4C4;
 }
 .footer {
-    margin-left: -125px;
-    width: 1400px;
+    margin-left: -150px;
+    width: 1450px;
     background-color: #121212;
 }
 .footer-text {
